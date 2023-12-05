@@ -12,7 +12,7 @@ This is Yasa's portfolio website built using Bootstrap.
 
 ## Description
 
-Yasa's Bootstrap Portfolio is a personal website showcasing Yasa's projects and providing information about Yasa. The website is built using Bootstrap, a popular front-end framework.
+Yasa's Bootstrap Portfolio is a personal website showcasing Yasa's projects and providing information about Yasa. The website is built using Bootstrap.
 
 ## Features
 
