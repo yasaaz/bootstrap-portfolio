@@ -32,6 +32,9 @@ For any inquiries, you can contact Yasa at [yasa_az@hotmail.com](mailto:yasa_az@
 ## Work in Progress
 
 This website is still a work in progress. More features and improvements will be added in the future.
+This is how it should appear on a desktop : 
+<img width="273" alt="Capture d’écran 2023-12-05 à 8 58 25 PM" src="https://github.com/yasaaz/bootstrap-portfolio/assets/148010250/3baad706-d57c-4f77-90b1-67e071cf85f7">
+
 
 ## Credits
 
